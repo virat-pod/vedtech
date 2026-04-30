@@ -34,7 +34,7 @@ const Forms = () => {
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
                   <div className="w-8 h-8 rounded-full bg-neutral-950 text-white text-xs font-bold flex items-center justify-center">
-                    JD
+                    M
                   </div>
                   <div>
                     <p className="text-sm font-semibold text-neutral-900">
